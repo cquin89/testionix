@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">testIonix</string>
+    <string name="title1">Pago Facil</string>
+    <string name="title2">Estacion de Servicios</string>
+    <string name="title3">Mi Ruta</string>
+    <string name="title4">Mis Beneficios</string>
+    <string name="title5">Mensajes [0]</string>
+    <string name="title6">Configuracion</string>
+</resources>
